@@ -28,7 +28,7 @@ list_of_files = [
     # Initialization file for the utils subpackage
     "src/utils/__init__.py",  
     # Utility functions (note: duplicate .py extension)
-    "src/utils/utils.py.py",  
+    "src/utils/utils.py",  
     # Script for logging functionality
     "src/logger/logging.py",  
     # Script for handling exceptions
