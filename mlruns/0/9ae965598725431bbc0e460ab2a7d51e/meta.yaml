@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yitayew/Desktop/MLOPS/mlruns/0/9ae965598725431bbc0e460ab2a7d51e/artifacts
+end_time: 1729499661569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ae965598725431bbc0e460ab2a7d51e
+run_name: lyrical-bee-569
+run_uuid: 9ae965598725431bbc0e460ab2a7d51e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499657637
+status: 4
+tags: []
+user_id: yitayew

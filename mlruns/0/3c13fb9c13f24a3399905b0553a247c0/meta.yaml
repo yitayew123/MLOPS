@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yitayew/Desktop/MLOPS/mlruns/0/3c13fb9c13f24a3399905b0553a247c0/artifacts
+end_time: 1729499371658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c13fb9c13f24a3399905b0553a247c0
+run_name: masked-hawk-949
+run_uuid: 3c13fb9c13f24a3399905b0553a247c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729499367824
+status: 4
+tags: []
+user_id: yitayew
